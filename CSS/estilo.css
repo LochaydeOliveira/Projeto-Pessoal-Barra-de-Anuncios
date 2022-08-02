@@ -1,0 +1,55 @@
+/* 
+this part of the style page is exclusive to the gojess store.
+*/
+
+.secao__anuncios {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 1%, rgba(241,58,102,1) 38%, rgba(254,145,21,1) 100%);
+    width: 100%;
+
+}
+
+.container__anuncios {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    
+
+}
+.barra__menus {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    
+}
+
+.barra__menus ul {
+    height: 70px;
+    display: flex;
+
+}
+
+.lista__anuncios {
+    display: flex;
+    align-items: center;
+
+
+}
+      
+.lista__anuncios li {
+    List-style-type: none;
+    display: flex;
+    margin: 0 70px;
+    color: #ffffff;
+    font-family: "Lato",sans-serif;
+    align-items: center!important;
+
+
+}
+.fa-solid {
+    display: inline-block;
+    font-size: 30px;
+    margin-right: 10px;
+
+}
+
